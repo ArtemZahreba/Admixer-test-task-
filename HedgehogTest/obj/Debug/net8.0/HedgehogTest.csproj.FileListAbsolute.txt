@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/bin/Debug/net8.0/HedgehogTest
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/bin/Debug/net8.0/HedgehogTest.deps.json
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/bin/Debug/net8.0/HedgehogTest.runtimeconfig.json
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/bin/Debug/net8.0/HedgehogTest.dll
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/bin/Debug/net8.0/HedgehogTest.pdb
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/obj/Debug/net8.0/HedgehogTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/obj/Debug/net8.0/HedgehogTest.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/obj/Debug/net8.0/HedgehogTest.AssemblyInfo.cs
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/obj/Debug/net8.0/HedgehogTest.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/obj/Debug/net8.0/HedgehogTest.dll
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/obj/Debug/net8.0/refint/HedgehogTest.dll
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/obj/Debug/net8.0/HedgehogTest.pdb
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/obj/Debug/net8.0/HedgehogTest.genruntimeconfig.cache
+/Users/macbookpro/Documents/document /tests task /Admixer test task /HedgehogTest/obj/Debug/net8.0/ref/HedgehogTest.dll
